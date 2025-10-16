@@ -1,0 +1,16 @@
+package employedetails;
+
+public class EmployeeDetail {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name ="sai priya";
+		int salary =80000;
+		int age =18;
+		String address ="usaa blvd";
+
+      System.out.println("this is "+name+" "+"my "+salary+" my "+age+" and "+address);
+
+	}
+	
+}
