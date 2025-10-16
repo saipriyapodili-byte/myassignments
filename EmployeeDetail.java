@@ -7,9 +7,10 @@ public class EmployeeDetail {
 		String name ="sai priya";
 		int salary =80000;
 		int age =18;
+		String gender="female";
 		String address ="usaa blvd";
 
-      System.out.println("this is "+name+" "+"my "+salary+" my "+age+" and "+address);
+      System.out.println("this is "+name+" "+"my "+salary+" my "+age+"gender "+gender+" and "+address);
 
 	}
 	
